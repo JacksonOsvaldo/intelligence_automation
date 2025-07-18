@@ -1,0 +1,5 @@
+pandas
+httpx
+numpy
+#ollama
+#llama3:latest
