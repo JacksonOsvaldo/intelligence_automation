@@ -1,5 +1,4 @@
-pandas
-httpx
-numpy
-#ollama
-#llama3:latest
+pandas==2.3.1
+httpx==0.28.1
+numpy==2.3.1
+browser-use==0.5.4
